@@ -1,15 +1,19 @@
 <h1>Password Generator Program</h1>
 
  <p align="center">
-<img src="https://e21ba03441345a2bd5b1.cdn6.editmysite.com/uploads/b/e21ba03441345a2bd5b1478cc70cc22358cffb927dcfd658c746f3f748fd0462/2021-10-06_12-37-27_1633549055.png?width=2400&optimize=medium" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://www.bhutanpythoncoders.com/wp-content/uploads/2021/07/Password-generator-1024x576-1024x585.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
 <h2>Description</h2>
-The project consists of a python script that walks the user through Start the game by asking the player:
+The project consists of a Python script that walks the user through A program that generates random passwords based on user preferences for length and character types, including letters, numbers, and special characters.
 
-"What do you choose? Rock, Paper, Scissors." The familiar game of Rock, Paper, Scissors is played like this: at the same time, two players display one of three symbols: a rock, paper, or scissors. Rock beats scissors, scissors beat paper by cutting it, and paper beats rock by covering it.
-The User has to play with the computer.
+The program will ask:
+How many letters would you like in your password?
+How many symbols would you like?
+How many numbers would you like?
+
+The objective is to take the inputs from the user to these questions and then generate a random password.
 <br />
 
 
@@ -26,7 +30,7 @@ The User has to play with the computer.
 
 <p align="center">
 Program Output <br/>
-<img src="https://i.imgur.com/ONiov8t.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/jOUuKm3.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
